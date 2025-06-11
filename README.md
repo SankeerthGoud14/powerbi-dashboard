@@ -1,6 +1,3 @@
-Based on the files you’ve uploaded—a Power BI report (`sankeerth1.pbix`), a corresponding analysis PDF (`sankeerth.pdf`), and the dataset (`Sample - Superstore.csv`)—here's a professional `README.md` you can use for your GitHub repository:
-
----
 
 # 📊 Superstore Sales Analysis Dashboard
 
